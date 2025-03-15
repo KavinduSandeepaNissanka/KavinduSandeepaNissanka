@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavindu Sandeepa</h1>
-<h3 align="center">A passionate fulstack developer from Sri Lanka</h3>
+<h3 align="center">A passionate Fulstack developer from Sri Lanka</h3>
 
 - 🔭 I’m currently studying at **University of Vavuniya**
 
