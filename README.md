@@ -5,7 +5,7 @@
 - 🔭 I’m currently studying IT at **University of Vavuniya**
 - 💡 Founder & Owner of **KleviS.lk** Clothing E-Commerce Platform
 - 🏆 Recognized as **Most Valuable Performer (MVP)** at Nations Trust Bank PLC (2023)
-- 📧 How to reach me: **kavindusandeepa0730@gmail.com** / **kavi20010730@gmail.com**
+- 📧 How to reach me: **kavindusandeepa0730@gmail.com** 
 - 🌐 Portfolio: [kavindu-nissanka.vercel.app](https://kavindu-nissanka.vercel.app)
 
 ---
@@ -36,17 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KavinduSandeepaNissanka&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KavinduSandeepaNissanka&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🎯 Beyond Coding
 * 🏓 Table Tennis
 * ♟️ Chess
@@ -56,5 +45,5 @@
 
 ### 📈 Languages and Tools Icons
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,spring,nodejs,express,mysql,mongodb,php,git,github,figma,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,js,ts,html,css,react,spring,nodejs,express,mysql,mongodb,firebase,php,git,github,figma,vscode,matlab,postman,idea" />
 </p>
