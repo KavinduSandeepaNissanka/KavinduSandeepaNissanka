@@ -45,5 +45,5 @@
 
 ### 📈 Languages and Tools Icons
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,js,ts,html,css,react,spring,nodejs,express,mysql,mongodb,firebase,php,git,github,figma,vscode,matlab,postman,idea" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,js,ts,html,css,react,spring,nodejs,express,mysql,mongodb,firebase,php,git,github,figma,vscode,matlab,postman,playwright,jira,idea" />
 </p>
